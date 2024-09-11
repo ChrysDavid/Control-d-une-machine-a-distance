@@ -1,6 +1,5 @@
 # Projet de Communication Client-Serveur avec Sockets Réseau
 
-## Description
 Ce projet met en place une communication entre un serveur et un client via des sockets réseau. Il permet d'exécuter des commandes à distance, de récupérer des informations système, de télécharger des fichiers ou des captures d'écran, et de naviguer dans le système de fichiers de la machine cliente.
 
 ### Fonctionnalités principales
